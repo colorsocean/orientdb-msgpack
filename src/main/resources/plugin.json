@@ -1,0 +1,8 @@
+{
+	"name" : "message-pack",
+	"version" : "2.0-SNAPSHOT",
+	"javaClass": "com.orientechnologies.msgpack.OMessagePackPlugin",
+	"parameters" : {},
+	"description" : "Message Pack Serialization",
+	"copyrights" : "Orient Technologies LTD"
+}
